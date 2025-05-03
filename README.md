@@ -46,7 +46,7 @@ src/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/food-delivery.git
+   git clone https://github.com/Gupta2501/food-delivery.git
    ```
 
 2. Configure your MySQL credentials in `application.properties`
