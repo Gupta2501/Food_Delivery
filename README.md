@@ -63,6 +63,4 @@ src/
 - **Customer**: Can register, browse products, order food
 - **Admin**: Can manage products, customers, orders, and payments
 
-## 📄 License
 
-This project is intended for personal portfolio and educational use.
